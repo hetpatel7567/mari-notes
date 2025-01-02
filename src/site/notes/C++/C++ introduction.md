@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/c/c-introduction/","noteIcon":"","created":"2025-01-01T12:33:43.367+05:30","updated":"2025-01-03T01:11:50.271+05:30"}
+{"dg-publish":true,"permalink":"/c/c-introduction/","noteIcon":"","created":"2025-01-01T12:33:43.367+05:30"}
 ---
 
 
 
->[!key Feature]
+>[!key Features Of C]
 > - support low-level, system-level programming
 > - software os etc banavi sakay aaramthi
 > - rich set of libraries and features
