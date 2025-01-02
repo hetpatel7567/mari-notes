@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/c/c-introduction/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/c/c-introduction/","tags":["gardenEntry"],"noteIcon":"","created":"2025-01-01T12:33:43.367+05:30"}
 ---
 
 
@@ -9,8 +9,7 @@
 > - software os etc banavi sakay aaramthi
 > - rich set of libraries and features
 > - desktop level apps , video games , complex application 
-> - Object-Oriented Programming
-> - [[Object - Oriented Programming \|Object - Oriented Programming ]]
+> - [[C++/components/Object - Oriented Programming\|Object - Oriented Programming]]
 > - expectation handling
 > - speed of execution
 
