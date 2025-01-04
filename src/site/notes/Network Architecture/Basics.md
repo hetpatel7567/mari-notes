@@ -12,10 +12,10 @@
 **Hub** - જ્યાં બધા જ LAN અને ફાઈબર ઓપ્ટિક વાયર કન્નેક્ત થઇ શકે .
 
 **Bridges** - 
->![Pasted image 20250104233118.png](/img/user/C++/components/Pasted%20image%2020250104233118.png)
+>![bridge.png](/img/user/C++/components/bridge.png)
 
 **Switches*** - આ hub જ છે પણ આમાં એટલો ફરક કે hub માં જેમ બધા ભેગા થાય / કન્નેક્ત થાય , પણ આમાં એક પોર્ટ/વાયર થી બોવ બધા પોર્ટ/વાયર નીકળે , આગે સે એક ડાલો પીછે સે 5 નિકલેંગે .
->![Pasted image 20250104233548.png](/img/user/C++/components/Pasted%20image%2020250104233548.png)
+>![switch.png](/img/user/C++/components/switch.png)
 
 **Routers*** - ઉપર વાળા જે hub અને Switches જે હતું એમાં નેટવર્ક ટ્રાફિક તો ફ્લો થતું હતું પણ કોઈ efficient રીત નહતી , Routers માં માઈક્રોપ્રોસેસર હોય એના કારણે જે જગ્યા એ data પોકાડવાનો છે ત્યાં એ જલ્દી અને ફટાફટ પોકાડી શકશે , switches અને hub માં કોઈ પ્રકારનું માઈક્રોપ્રોસેસર હોતા નથી. 
 
@@ -35,5 +35,5 @@
 ***common protocols are TCP/IP, IEEE 802, Ethernet, wireless LAN, and cellular standards.***
 
 TCP/IP protocol structure
-![Pasted image 20250105000718.png](/img/user/C++/components/Pasted%20image%2020250105000718.png)
+![tcpipmodel.png](/img/user/C++/components/tcpipmodel.png)
 

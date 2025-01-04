@@ -14,4 +14,4 @@
 
 ## ***Key Components of a Computer Network***
 
-![Pasted image 20250104113937.png](/img/user/C++/components/Pasted%20image%2020250104113937.png)
+![cmpnetwork.png](/img/user/C++/components/cmpnetwork.png)

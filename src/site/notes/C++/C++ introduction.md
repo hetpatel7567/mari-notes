@@ -14,7 +14,7 @@
 > - speed of execution
 
 ## Execution of Code 
-![Pasted image 20250101125804.png](/img/user/C++/components/Pasted%20image%2020250101125804.png) 
+![compilation.png](/img/user/C++/components/compilation.png) 
 
 ## Applications of C++
 - Operating Systems & Systems Programming. e.g. __Linux-based OS (Ubuntu etc.)__
@@ -37,7 +37,7 @@
 - Error-Prone ^[ C++ provides low-level access to system resources, which can lead to subtle errors that are difficult to detect and fix.]
 
 ### C++ Na Features in short
-![Pasted image 20250101133558.png](/img/user/C++/components/Pasted%20image%2020250101133558.png)
+![feture c++.png](/img/user/C++/components/feture%20c++.png)
 
 > ddfdfdsffsdf
 > dsfdsfsf
