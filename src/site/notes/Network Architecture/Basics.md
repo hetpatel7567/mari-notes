@@ -34,3 +34,6 @@
 
 ***common protocols are TCP/IP, IEEE 802, Ethernet, wireless LAN, and cellular standards.***
 
+TCP/IP protocol structure
+![Pasted image 20250105000718.png](/img/user/C++/components/Pasted%20image%2020250105000718.png)
+
