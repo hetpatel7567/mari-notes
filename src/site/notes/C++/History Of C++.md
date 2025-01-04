@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/c/history-of-c/","noteIcon":"","created":"2025-01-01T13:37:46.386+05:30","updated":"2025-01-03T00:06:26.706+05:30"}
+{"dg-publish":true,"permalink":"/c/history-of-c/","noteIcon":"","created":"2025-01-01T13:37:46.386+05:30"}
 ---
 
 > [!info]
