@@ -3,7 +3,7 @@
 ---
 
 
-### 1-  **Network Devices***
+### 1-  **Network Devices**
 
 **NIC (Network Interface Card)*** - એવી વસ્તુ કે જેનાથી આપડે ઈન્ટરનેટ નો એક્સેસ મેળવી શકીએ , જેના દ્વારા ઉપયોગ કરી શકીએ.
 
@@ -23,17 +23,22 @@
 
 
 
-### 2 - **Links***
+### 2 - **Links**
 
 >  - Wired
 >        -Copper wire, twisted pair, or fiber optic cables
 > - Wireless
 >       - electromagnetic waves (EM Waves) or infrared waves
 
-### 3 - Communication Protocols
+### 3 - **Communication Protocols**
 
 ***common protocols are TCP/IP, IEEE 802, Ethernet, wireless LAN, and cellular standards.***
 
 TCP/IP protocol structure
 ![tcpipmodel.png](/img/user/C++/components/tcpipmodel.png)
+
+****Network Access Layer*** - hardware sends data through wires or fibers.
+****Internet Layer*** - data ને નાના packets માં કેમનું ફેરવે એ , data નું structure કેવું હશે એ , અને કેટલાata packets પોક્યા અને આવ્યા , હજી કેટલા લેવાના બાકી કે કેટલા આપવા ના બાકી એ આ layer માં.
+****Transport Layer*** - બે devices વચ્ચે communication કેમનું થશે એ નક્કી કરશે.
+****Application Layer*** - This layer allows high-level applications to access the network to start data transfer.
 
